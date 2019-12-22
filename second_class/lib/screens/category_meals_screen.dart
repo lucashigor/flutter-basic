@@ -3,7 +3,7 @@ import 'package:flutter_complete_guide/widgets/MealItem.dart';
 import '../dummy-data.dart';
 
 class CategoryMealsScreen extends StatelessWidget {
-  static const routName = '/category-meals';
+  static const routeName = '/category-meals';
   //final String categoryId;
   //final String categoryTitle;
 
